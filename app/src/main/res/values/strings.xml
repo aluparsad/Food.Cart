@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Food Cart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="locality">Locality :</string>
+    <string name="pincode">pincode</string>
+    <string name="city">City</string>
+    <string name="place_order">Place Order</string>
+
+    <string-array name="category">
+        <item>Sandvich</item>
+        <item>Salads</item>
+        <item>Burgers</item>
+        <item>Pizza</item>
+        <item>Soups</item>
+        <item>Noodles</item>
+        <item>Rice</item>
+        <item>Dosas</item>
+    </string-array>
+
+</resources>
